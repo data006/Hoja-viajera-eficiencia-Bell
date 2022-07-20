@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\bin\Debug\Eficiencia.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\bin\Debug\Eficiencia.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\bin\Debug\Eficiencia.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.Eficiencia.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\Eficiencia\Eficiencia\obj\Debug\Eficiencia.pdb
